@@ -127,3 +127,6 @@ dmypy.json
 #Release
 *.zip
 *.7z
+
+#IDE
+/.idea/
